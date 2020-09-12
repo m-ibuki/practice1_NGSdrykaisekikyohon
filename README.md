@@ -1,0 +1,2 @@
+# practice1_NGSdrykaisekikyohon
+次世代シーケンサーDRY解析教本
